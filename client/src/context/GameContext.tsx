@@ -88,7 +88,7 @@ export const GameProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
   const makeMove = async (move: Move) => {
     try {
-      const response = await fetch("http://localhost:3001/api/play", {
+      const response = await fetch("rockpaperscissors-production-8880.up.railway.app/api/play", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
