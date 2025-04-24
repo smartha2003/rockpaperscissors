@@ -1,6 +1,7 @@
-Rock-Paper-Scissors game 🎮
+
 
 # 🚀 Deploying Full-Stack App (Backend: Railway, Frontend: Vercel)
+## Rock-Paper-Scissors game 🎮 
 
 ## 📦 Backend Deployment with Railway
 
